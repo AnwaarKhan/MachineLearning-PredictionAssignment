@@ -1,1 +1,1 @@
-# Machine Learning - Prediction Assignment
+# MachineLearning-PredictionAssignment
